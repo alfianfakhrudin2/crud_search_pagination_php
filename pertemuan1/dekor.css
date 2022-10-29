@@ -1,0 +1,21 @@
+/* untuk mengatur font style */
+body{
+    background-color: #ced6e0;
+    font-family: tahoma, Arial, Helvetica, sans-serif;
+}
+/* untuk mengatur posisi table */
+.table{
+    border-collapse: collapse;
+    border-radius: 150px;
+}
+/* untuk mengatur jarak, ukuran font, serta mengatur border */
+.td{font-size: 18px; border: 1px solid #DEDEDE; padding: 3px 5px; color: #303030;}
+/* untuk menambahkan warna dan mengatur besar kecilnya huruf pada th */
+th{
+    background: #CCCCCC;
+    font-size: 17px;
+    border-color: #B0B0B0;
+}
+.tombol{
+    background-color: #3D8361;
+}
